@@ -37,7 +37,9 @@ const Projects = () => {
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4"
             >
-              <h3 className="mb-2 font-semibold text-2xl">{projects.title}</h3>
+              <h3 className="mb-2 font-semibold text-2xl text-center lg:text-left">
+                {projects.title}
+              </h3>
               <p className="mb-4 text-stone-500">{projects.description}</p>
               <div className="flex justify-start items-center flex-wrap gap-2">
                 {projects.technologies.map((tech, index) => (
