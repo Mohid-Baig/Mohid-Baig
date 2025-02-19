@@ -40,8 +40,10 @@ const Projects = () => {
               <h3 className="mb-2 font-semibold text-2xl text-center lg:text-left">
                 {projects.title}
               </h3>
-              <p className="mb-4 text-stone-500">{projects.description}</p>
-              <div className="flex justify-start items-center flex-wrap gap-2">
+              <p className="mb-4 text-stone-500 text-center lg:text-left">
+                {projects.description}
+              </p>
+              <div className="flex justify-center  items-center flex-wrap gap-2 lg:justify-start">
                 {projects.technologies.map((tech, index) => (
                   <span
                     className="mr-2 rounded bg-stone-900 p-2 text-sm font-medium text-stone-300"
