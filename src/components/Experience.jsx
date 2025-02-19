@@ -14,7 +14,7 @@ const Experience = () => {
       </motion.h2>
       <div>
         {EXPERIENCES.map((experience, index) => (
-          <div className="mb-8 flex flex-col lg:flex-row lg:justify-start items-center lg:items-start">
+          <div className="mb-8 flex flex-col lg:flex-row lg:justify-center items-center lg:items-start">
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: -100 }}
