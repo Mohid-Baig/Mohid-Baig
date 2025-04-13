@@ -1,4 +1,4 @@
-Hello this side Mohid Baig a experienced React Native Developer
+Hello this side Mohid Baig an experienced React Native Developer
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
