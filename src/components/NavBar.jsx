@@ -34,7 +34,7 @@ const NavBar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://www.instagram.com/mohid_baig_13?igsh=d2o5djNqcTYxY2o="
+          href="https://www.instagram.com/mohidbaigdev/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
