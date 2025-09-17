@@ -6,13 +6,13 @@ import tasteland from "../assets/tasteland.png";
 import emlak from "../assets/emlak.jpg";
 import keune from "../assets/keune.png";
 import uactros from "../assets/uactros.png";
-export const HERO_CONTENT = `I am a React Native developer with a strong focus on creating high-performance, cross-platform mobile applications. With expertise in JavaScript, React, and API integration, I build scalable, responsive, and user-centric solutions. I am passionate about learning and thrive in dynamic environments, contributing to innovative projects while continuously enhancing my skills.`;
+export const HERO_CONTENT = `I am a Full-Stack React Native developer with a strong focus on creating high-performance, cross-platform mobile applications. With expertise in JavaScript, React, and API integration, I build scalable, responsive, and user-centric solutions. I am passionate about learning and thrive in dynamic environments, contributing to innovative projects while continuously enhancing my skills.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "Jul 2024 - Present",
+    year: "Jul 2024 - Jun 2025",
     role: "React Native Developer",
     company: "IDLogix (Pvt) Limited",
     description: `At IDLogix, I have experience designing and building mobile applications for both iOS and Android platforms. I am proficient in creating reusable components and optimizing application performance to ensure a smooth user experience.`,
