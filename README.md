@@ -53,7 +53,7 @@ const mohidBaig = {
 ```
 
 ### 📬 **Connect & Collaborate:**
-- 💼 **Portfolio:** [mohid-baig.vercel.app](https://mohid-baig.vercel.app/)
+- 💼 **Portfolio:** [mohid-baig.vercel.app](https://mohidbaig.vercel.app/)
 - 📧 **Email:** mohidtahir12@gmail.com
 - 🤝 **Need help with:** Advanced Backend Architecture
 - 💡 **Ask me about:** React Native, Node.js, MongoDB
