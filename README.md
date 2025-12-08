@@ -178,9 +178,9 @@ const mohidBaig = {
 
 <div align="center">
   
-### 💭 *"Code is poetry written in logic"*
+###  *"Code is poetry written in logic"*
 
-**Thanks for visiting! Let's build something amazing together** 🚀
+**Thanks for visiting! Let's build something amazing together** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
