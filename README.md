@@ -1,126 +1,88 @@
-# <div align="center">Hi 👋, I'm **Mohid Baig**</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full-Stack+React+Native+Developer;Passionate+Mobile+App+Creator;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
-</div>
+# Hi, I'm Mohid Baig 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohid-baig&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+### React Native Developer building production mobile apps from Lahore, Pakistan 🇵🇰
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="300" alt="Coding"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Lead+Developer+%E2%80%94+CPN+Podcast+App+(Live+on+Play+Store);Shipping+Cross-Platform+Apps+Since+2024;React+Native+%E2%80%A2+Node.js+%E2%80%A2+Supabase+%E2%80%A2+MongoDB)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=mohid-baig&label=Profile%20Views&color=00D4AA&style=flat-square" alt="profile views" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohidbaigdev.vercel.app-00D4AA?style=flat-square&logo=vercel&logoColor=white)](https://mohidbaigdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohid-baig/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192b75fc3f1e31c48)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohidtahir12@gmail.com)
+
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-<table>
-<tr>
-<td width="60%">
+React Native Developer with nearly 2 years of experience shipping cross-platform mobile apps to production — across e-commerce, healthcare, real estate, education, and media streaming. Currently leading the full UI rebuild of **Cool People Network**, a live podcast/video streaming app, while completing a BS in Computer Science.
 
 ```typescript
 const mohidBaig = {
-    title: "React Native Developer", //
-    location: "Lahore, Pakistan 🇵🇰", //
-    currentWork: "Building cross-platform apps & freelancing on Fiverr/Upwork", //
-    passion: ["End-to-End App Ownership", "Performance Optimization", "Clean UI/UX Architecture"], //
-    
-    recentMilestone: "Led a full UI/UX rebuild for Cool People Network (CPN) live on Play Store", //[cite: 1]
-    
-    currentlyFocusingOn: [
-        "Advanced Mobile Performance Tuning (FlatList, UI Thread FPS)", //[cite: 1]
-        "Complex State & Data Integration (Redux Toolkit, Supabase)", //[cite: 1]
-        "Offline-First App Architecture" //[cite: 1]
-    ],
-    
-    collaborateOn: [
-        "Scalable Mobile App Architectures", //[cite: 1]
-        "Custom UI Components & Reanimated Systems", //[cite: 1]
-        "Cross-Platform Performance Solutions" //[cite: 1]
-    ],
-    
-    expertise: {
-        mobile: ["React Native CLI", "React Navigation", "Redux Toolkit", "FlashList", "Reanimated", "WebView"], //[cite: 1]
-        backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "Supabase", "Firebase"], //[cite: 1]
-        tools: ["Android Studio", "Google Play Store", "Git & GitHub", "Figma", "JavaScript (ES6+)"] //[cite: 1]
+    role: "React Native Developer",
+    based: "Lahore, Pakistan 🇵🇰",
+    experience: "~2 years, production apps across 7+ industries",
+
+    currentlyLeading: "Cool People Network (CPN) — full UI/UX rebuild, live on Play Store",
+
+    stack: {
+        mobile: ["React Native CLI", "React Navigation", "Redux Toolkit", "FlashList", "Reanimated", "WebView"],
+        backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "Supabase", "Firebase"],
+        tools: ["Android Studio", "Google Play Store", "Git", "Figma"]
     },
-    
-    funFact: "Left-handed developer who debugs faster when talking directly to the console... 🗣️💻"
+
+    focusAreas: [
+        "Mobile performance tuning (list virtualization, render cost, deferred mounting)",
+        "Offline-first architecture & sync",
+        "WebView-heavy hybrid app systems"
+    ],
+
+    openTo: ["Freelance contracts", "Full-time React Native roles", "Collaboration on mobile architecture"]
 };
 ```
 
-### 📬 **Connect & Collaborate:**
-- 💼 **Portfolio:** [mohidbaig.vercel.app](https://mohidbaigdev.vercel.app/)
-- 📧 **Email:** mohidtahir12@gmail.com
-- 🤝 **Need help with:** Advanced Backend Architecture
-- 💡 **Ask me about:** React Native, Node.js, MongoDB
+---
 
-</td>
-<td width="40%">
+### 💼 Experience
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="100%"/>
+**React Native Developer** — ID Logix (Pvt) Ltd · *Jul 2024 – Jun 2025*
+Shipped production iOS/Android apps, built reusable component libraries used across multiple client projects, and optimized performance through list tuning, memoization, and image caching.
 
-</td>
-</tr>
-</table>
+**React Native Developer** — Freelance (Fiverr & Upwork) · *Jan 2025 – Present*
+Delivering end-to-end apps for international clients — UI, state management, API integration, and store deployment — owning full project lifecycles from requirements to release.
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌟 Featured Work
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohid-baig&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</div>
+| Project | Role | What I Built | Stack |
+|---|---|---|---|
+| **[Cool People Network](https://play.google.com/store/apps/details?id=com.cpnpodcast)** *(Live)* | Lead Developer | Full UI rebuild of a podcast/video platform — YouTube WebView integration, Supabase-powered ad system (MP4 + YouTube), Community Feed, Rankings, Supporters modal | React Native, Redux Toolkit, WebView, Supabase |
+| **PU Smart Tracker** | Developer | University tracking app, **1,000+ active users** — real-time attendance, geofencing, push notifications, role-based dashboards | React Native, Node.js, MongoDB |
+| **Tasteland App** | Lead Front-End Developer | Field sales app adopted by **150+ sellers**, driving 300+ orders/week with full offline order capture | React Native, REST APIs |
+| **KhoonReady** | Front-End Developer | Emergency blood donation app with donor matching and live request alerts | React Native, Firebase |
+| **Keune Pakistan** | Front-End Developer | E-commerce app for a hair care brand, including AR-based hair color try-on | React Native, Redux, Camera API |
+| **Infinity Emlak / Uactros** | Front-End Developer | Real estate apps — property views, ledgers, transaction history, due payments | React Native, Node.js, REST APIs |
+
+📂 Full breakdowns with screenshots: **[mohidbaigdev.vercel.app](https://mohidbaigdev.vercel.app/)**
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### **Mobile & Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
-</p>
-
-### **Styling & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-</p>
-
-### **Tools & Testing**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,firebase,ts,js,figma,git,github,androidstudio" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -129,59 +91,25 @@ const mohidBaig = {
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohid-baig&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohid-baig&theme=github-compact&hide_border=true" height="250"/>
-</div>
-
 ---
 
-## 🌟 Featured Projects
+### 💬 What Clients Say
 
-<div align="center">
+> "Excellent work by Mohid. Professional, reliable, and delivered quality results on time. Definitely work with him again."
+> — **Rizwan A.**, Co-Founder at ID Logix (Upwork)
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **PU Smart Tracker Backend** | Smart campus solution backend | Node.js, Express, MongoDB |
-| **Tasteland App** | Field Sale Automation App | React Native, Redux |
-| **Full Stack Mobile Apps** | Complete mobile solutions | React Native, Node.js, MongoDB |
-
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/mohid-baig/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mohidbaigdev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/mohid-baig" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:mohidtahir12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://mohid-baig.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-
-</div>
+> "Mohid is a very responsible, dedicated, and hardworking individual. He consistently completes his tasks on time, maintains clear communication, and delivers quality work."
+> — **Shehzad A.**, .NET Developer at Globulars (Upwork)
 
 ---
 
 <div align="center">
-  
-###  *"Code is poetry written in logic"*
 
-**Thanks for visiting! Let's build something amazing together** 
+**Open to freelance projects, full-time roles, and collaboration — let's build something.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohidbaigdev.vercel.app-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://mohidbaigdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohid-baig/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192b75fc3f1e31c48)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
