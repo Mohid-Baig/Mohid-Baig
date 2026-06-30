@@ -24,31 +24,32 @@
 
 ```typescript
 const mohidBaig = {
-    title: "Full-Stack React Native Developer",
-    location: "Pakistan 🇵🇰",
-    currentWork: "PU-Smart Tracker Backend",
-    passion: ["Mobile Development", "Clean Code", "Problem Solving"],
+    title: "React Native Developer", //
+    location: "Lahore, Pakistan 🇵🇰", //
+    currentWork: "Building cross-platform apps & freelancing on Fiverr/Upwork", //
+    passion: ["End-to-End App Ownership", "Performance Optimization", "Clean UI/UX Architecture"], //
     
-    currentlyLearning: [
-        "React Native Performance Optimization",
-        "Redux Toolkit & RTK Query", 
-        "Advanced MongoDB & Mongoose",
-        "Git & GitHub Workflows"
+    recentMilestone: "Led a full UI/UX rebuild for Cool People Network (CPN) live on Play Store", //[cite: 1]
+    
+    currentlyFocusingOn: [
+        "Advanced Mobile Performance Tuning (FlatList, UI Thread FPS)", //[cite: 1]
+        "Complex State & Data Integration (Redux Toolkit, Supabase)", //[cite: 1]
+        "Offline-First App Architecture" //[cite: 1]
     ],
     
     collaborateOn: [
-        "React Native UI Kits",
-        "Open Source Mobile Apps",
-        "Innovative Solutions"
+        "Scalable Mobile App Architectures", //[cite: 1]
+        "Custom UI Components & Reanimated Systems", //[cite: 1]
+        "Cross-Platform Performance Solutions" //[cite: 1]
     ],
     
-    expertise: [
-        "React Native", "Expo", "React", 
-        "Redux Toolkit", "Node.js", "Express",
-        "MongoDB", "REST APIs"
-    ],
+    expertise: {
+        mobile: ["React Native CLI", "React Navigation", "Redux Toolkit", "FlashList", "Reanimated", "WebView"], //[cite: 1]
+        backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "Supabase", "Firebase"], //[cite: 1]
+        tools: ["Android Studio", "Google Play Store", "Git & GitHub", "Figma", "JavaScript (ES6+)"] //[cite: 1]
+    },
     
-    funFact: "I debug faster when I talk to my code... 🗣️💻"
+    funFact: "Left-handed developer who debugs faster when talking directly to the console... 🗣️💻"
 };
 ```
 
